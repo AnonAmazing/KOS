@@ -1,7 +1,7 @@
 kxOS
 ======
 
-kOS is a scriptable autopilot Mod for Kerbal Space Program. It allows you write small programs that automate specific tasks.
+kxOS is a scriptable autopilot Mod for Kerbal Space Program. It allows you write small programs that automate specific tasks.
 
 Documentation : http://ksp-kos.github.io/KOS_DOC/
 
